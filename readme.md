@@ -67,7 +67,7 @@ Assignment-Task/
 
  **Clone the Repository**  
 
-git clone https://github.com/your-username/assignment-task.git
+git clone  https://github.com/Achyuth1818/Task-Management-Assignment.git
 cd assignmenttask
 Install Dependencies
 
