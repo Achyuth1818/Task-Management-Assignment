@@ -52,3 +52,42 @@ Assignment-Task/
 │
 ├── README.md # Project documentation
 └── package.json # Root dependencies (concurrently setup)
+
+
+
+## ⚙️ Installation and Setup
+
+### Prerequisites
+- **Node.js** and **npm** installed on your system.
+- **MongoDB** installed locally or access to a MongoDB Atlas cluster.
+
+
+
+### Steps to Run the Project Locally
+
+ **Clone the Repository**  
+
+git clone https://github.com/your-username/assignment-task.git
+cd assignmenttask
+Install Dependencies
+
+##Navigate to the Backend directory and install dependencies:
+cd backend
+npm install
+
+##Navigate to the Frontend directory and install dependencies:
+
+cd ../Frontend
+npm install
+Run the Project
+
+##To run the Frontend only:
+npm run dev 
+
+##To run the Backend only:
+npm run dev 
+
+##To run both the Frontend and Backend together using concurrently:
+npm start
+
+
